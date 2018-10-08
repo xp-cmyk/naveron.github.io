@@ -8,3 +8,14 @@
 [玉龙视觉效果工作室](https://naveron.github.io/)
 
 <br><h>
+
+# 网站全部来自[http://www.jarrekk.com/](https://github.com/jarrekk/Jalpc)
+
+## 准备在此基础上修改
+
+# 感谢[jarrekk](https://github.com/jarrekk)
+<hr>
+
+![Author](https://avatars2.githubusercontent.com/u/10969478?s=460&v=4)
+
+
